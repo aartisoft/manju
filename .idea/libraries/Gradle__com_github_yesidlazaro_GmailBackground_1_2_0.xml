@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.yesidlazaro:GmailBackground-1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/GmailBackground-1.2.0.aar/c92cd5fa556a892770c3f76eef2456bf/jars/libs/mail.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/GmailBackground-1.2.0.aar/c92cd5fa556a892770c3f76eef2456bf/jars/libs/additionnal.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/GmailBackground-1.2.0.aar/c92cd5fa556a892770c3f76eef2456bf/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/GmailBackground-1.2.0.aar/c92cd5fa556a892770c3f76eef2456bf/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/GmailBackground-1.2.0.aar/c92cd5fa556a892770c3f76eef2456bf/jars/libs/activation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

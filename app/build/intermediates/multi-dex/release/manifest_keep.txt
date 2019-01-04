@@ -1,0 +1,2 @@
+# Referenced at /Volumes/Backup/manju/app/build/intermediates/manifests/full/release/AndroidManifest.xml:64
+-keep class com.ownmetrro.manjuagecy.app.App { <init>(...); }

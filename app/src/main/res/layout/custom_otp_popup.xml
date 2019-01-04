@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_margin="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/signupBtn"
+        android:layout_width="126dp"
+        android:layout_height="@dimen/button_height"
+        android:background="@drawable/rounded_corners_button"
+        android:text="Submit"
+        android:layout_gravity="center"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/button_text_size"
+        app:backgroundTint="@color/colorAccentGreen" />
+
+    <TextView
+        android:id="@+id/tv_coundown"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/spacing_medium"
+        android:gravity="center"
+        android:text="02:00"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+        android:textColor="@color/grey_60" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/resend"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="RESEND CODE"
+        android:textColor="@color/grey_40" />
+</LinearLayout>

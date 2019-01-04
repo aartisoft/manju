@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.braintreepayments.api:google-payment-1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/google-payment-1.0.0.aar/3361e57160b04144046a28682acdd73c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/google-payment-1.0.0.aar/3361e57160b04144046a28682acdd73c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/google-payment/1.0.0/cb778837d724093606662ad4e9dd3cf5207ddbdd/google-payment-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

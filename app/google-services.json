@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "49094730810",
+    "firebase_url": "https://manju-agency.firebaseio.com",
+    "project_id": "manju-agency",
+    "storage_bucket": "manju-agency.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49094730810:android:437b8236cabc961d",
+        "android_client_info": {
+          "package_name": "com.ownmettro.manjuagecy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49094730810-ri2v16pat0d54a9q60ma2aroe4sn2843.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq1MRkBDvID69k5S3mYtTfXi2vuJgbkSY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
